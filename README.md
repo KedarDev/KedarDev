@@ -2,8 +2,6 @@
 <h3 align="center">Experienced Full Stack Developer Working Remotely.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kedardev" alt="kedardev" /></a> </p>
-
  🧑🏿‍💻 Full Stack Developer taking applications from design to implementation
 
  👨‍💻 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
