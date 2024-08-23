@@ -9,7 +9,7 @@
  📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
 
  
- 📩 How to reach me <br></br> <a href="mailto:pedro.sales.muniz@gmail.com">
+ 📩 How to reach me <br></br> <a href="mailto:kedar.h.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
