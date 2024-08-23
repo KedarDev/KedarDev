@@ -9,12 +9,14 @@
  📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
 
  
- 📩 How to reach me **Kedar.h.dev@gmail.com** 
+ 📩 How to reach me <br></br> <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
  
  📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?page-id=0%3A1&node-id=1-2&viewport=469%2C537%2C0.06&t=BJX9Z7MAwvMwvStx-1&scaling=scale-down&content-scaling=fixed)
 
- ⚡ Visit my Website   <a href="http://www.kedarthedeveloper.com" target="_blank">
+ ⚡ Visit my Website  <br></br>  <a href="http://www.kedarthedeveloper.com" target="_blank">
      <img src="https://img.shields.io/badge/KEDAR THE DEVELOPER-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
  
