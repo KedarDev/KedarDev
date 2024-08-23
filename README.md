@@ -4,12 +4,16 @@
 
  🧑🏿‍💻 Full Stack Developer taking applications from design to implementation
 
+ 
  📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
 
+ 
  📩 How to reach me **Kedar.h.dev@gmail.com** 
 
+ 
  📄 Link to [Resume]([https://pdf.ac/1XImTh](https://www.figma.com/design/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?node-id=1-2&t=8KUxp6vh15Gx8QPl-1))
 
+ 
  ⚡ Visit my Website [Kedar The Developer](http://www.kedarthedeveloper.com)
 
 
