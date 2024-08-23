@@ -11,7 +11,7 @@
  📩 How to reach me **Kedar.h.dev@gmail.com** 
 
  
- 📄 Link to [Resume]([https://pdf.ac/1XImTh](https://www.figma.com/design/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?node-id=1-2&t=8KUxp6vh15Gx8QPl-1))
+ 📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?page-id=0%3A1&node-id=1-2&viewport=469%2C537%2C0.06&t=BJX9Z7MAwvMwvStx-1&scaling=scale-down&content-scaling=fixed)
 
  
  ⚡ Visit my Website [Kedar The Developer](http://www.kedarthedeveloper.com)
