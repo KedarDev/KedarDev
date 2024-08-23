@@ -14,9 +14,11 @@
  📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?page-id=0%3A1&node-id=1-2&viewport=469%2C537%2C0.06&t=BJX9Z7MAwvMwvStx-1&scaling=scale-down&content-scaling=fixed)
 
  
+
+<div align="center">
  ⚡ Visit my Website [Kedar The Developer](http://www.kedarthedeveloper.com)
-
-
+ 
+</div>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kedarh/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KHALLDEV) 
