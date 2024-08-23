@@ -8,7 +8,7 @@
 
  📩 How to reach me **Kedar.h.dev@gmail.com** 
 
- 📄 Link to Resume ["Resume Link"]("Resume Link")
+ 📄 Link to [Resume]()
 
  ⚡ Visit my Website [Kedar The Developer](http://www.kedarthedeveloper.com)
 
