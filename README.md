@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5500&pause=2500&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=Hello+World+%F0%9F%91%8B%F0%9F%8F%BF;Welcome+To+My+Github+Page+.+.+.)](https://git.io/typing-svg)
 
 
+<div align="center">
 
  🧑🏿‍💻 Full Stack Developer taking applications from design to implementation
 
@@ -13,9 +14,6 @@
  
  📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?page-id=0%3A1&node-id=1-2&viewport=469%2C537%2C0.06&t=BJX9Z7MAwvMwvStx-1&scaling=scale-down&content-scaling=fixed)
 
- 
-
-<div align="center">
  ⚡ Visit my Website [Kedar The Developer](http://www.kedarthedeveloper.com)
  
 </div>
