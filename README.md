@@ -10,7 +10,7 @@
 
  📄 Link to Resume ["Resume Link"]("Resume Link")
 
- ⚡ Visit my Website [Kedarthedeveloper](kedarthedeveloper.com)
+ ⚡ Visit my Website [Kedarthedeveloper](www.kedarthedeveloper.com)
 
 
 
