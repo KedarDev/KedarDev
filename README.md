@@ -39,7 +39,7 @@
 
 # 📊 GitHub Stats:
 
-<div>
+<div align="center">
 
  
 ![](https://github-readme-stats.vercel.app/api?username=KedarDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
