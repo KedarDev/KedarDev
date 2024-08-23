@@ -4,13 +4,13 @@
 
  🧑🏿‍💻 Full Stack Developer taking applications from design to implementation
 
- 👨‍💻 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
+ 📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
 
- 📫 How to reach me **Kedar.h.dev@gmail.com** 
+ 📩 How to reach me **Kedar.h.dev@gmail.com** 
 
  📄 Link to Resume ["Resume Link"]("Resume Link")
 
- ⚡ Fun fact **Interested in Crypto Currency**
+ ⚡ Visit my Website [Kedarthedeveloper](kedarthedeveloper.com)
 
 
 
