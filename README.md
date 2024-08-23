@@ -32,7 +32,7 @@
 # 💻 Tech Stack:
 <div align="center">
  
-
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,blender,bootstrap,css,cypress,debian,discord,eclipse,express,figma,firebase,git,github,heroku,hibernate,html,java,js,jenkins,jest,linux,maven,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,postgres,postman,powershell,py,react,spring,stackoverflow,tailwind,threejs,ubuntu,visualstudio,vite.vscode,windows,wordpress,yarn)](https://skillicons.dev)
 
 </div>
 
