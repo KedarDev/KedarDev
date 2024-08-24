@@ -50,14 +50,33 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
-      - run: npm install
-      - name: Update guestbook
-        uses: muety/readme-guestbook@v1.0.9
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          max_entries: 5
+---
           
+name: 🧪
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - uses: ./
+      with:
+        issue: 1
+        approvers: |
+          joshmgross
+        guestbook-path: guestbook.md
+    - name: Update guestbook
+      run: |
+        if [[ `git status --porcelain` ]]; then
+          git config --local kedar.h.dev@gmail.com "actions@github.com"
+          git config --local KedarDev "${{ github.actor }}"
+          git add guestbook.md
+          git commit -m "✏ Update guestbook"
+          git push
+        fi
