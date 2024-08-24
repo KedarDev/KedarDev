@@ -75,11 +75,11 @@
 
 <p align="center">
   <a href="https://gist.github.com/KedarDev/a3c6f9781478d418760d2b65fe385190">
-    <img src="" alt="Click here to sign my guestbook!">
+    <img src="https://pouch.jumpshare.com/preview/sxyV3k8FZHIzU-dAkFs1dopXMI7wsIGq9QQUsMYVFHFMfNLpfSQpv-2IJUipTgfMlU4pAFuqROMVyD_KBE0GUYigI6P9xTN5bhgy5XPYp6k" alt="Click here to sign my guestbook!">
   </a>
 </p>
 
-<script src="https://gist.github.com/KedarDev/a3c6f9781478d418760d2b65fe385190.js"></script>
+
 
   
 
