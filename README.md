@@ -1,24 +1,40 @@
+<div aglin="center">
+ 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=5500&pause=2500&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=400&lines=Hello+World+👋🏿;Welcome+To+My+Github+Page+.+.+.)](https://git.io/typing-svg)
 
+</div>
 
 <div align="center">
 
- 🧑🏿‍💻 Full Stack Developer taking applications from design to implementation
+<h2> 🧑🏿‍💻 Full Stack Developer taking applications from design to implementation. </h2>
 
- 
- 📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB
+ <h3>
+  
+ 📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB 
 
- 
- 📩 How to reach me <br></br> <a href="mailto:kedar.h.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+</h3>
 
+<h3>
  
  📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Written-Resume?page-id=0%3A1&node-id=1-2&viewport=469%2C537%2C0.06&t=BJX9Z7MAwvMwvStx-1&scaling=scale-down&content-scaling=fixed)
 
- ⚡ Visit my Website  <br></br>  <a href="http://www.kedarthedeveloper.com" target="_blank">
+</h3>
+
+ <h3>
+ 📩 How to reach me <a href="mailto:kedar.h.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+</h3>
+
+
+
+<h3>
+ ⚡ Visit my Website <a href="http://www.kedarthedeveloper.com" target="_blank">
      <img src="https://img.shields.io/badge/KEDAR THE DEVELOPER-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+
+ </h3>
  
 </div>
 
