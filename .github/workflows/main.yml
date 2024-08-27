@@ -31,7 +31,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=black&color_dots=#3b3b3b,#FF0000,#ff6600,#FFA500,#E5b8OB&background=#000000"/>/>
+            dist/github-contribution-grid-snake.gif?color_snake=black&color_dots=#3b3b3b,#FF0000,#ff6600,#FFA500,#E5b8OB&color_background=transparent"/>
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Show build status
