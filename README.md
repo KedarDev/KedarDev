@@ -70,6 +70,7 @@
      <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
+![snake animation](https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg)
 
   <br/><br/><br/>
 </div>
