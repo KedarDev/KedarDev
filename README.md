@@ -62,7 +62,7 @@
   
  <br>
 
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?color_snake=black&color_dots=#3b3b3b,#FF0000,#ff6600,#FFA500,#E5b8OB&color_background=transparen"/>
+<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?color_snake=black&color_dots=#3b3b3b,#FF0000,#ff6600,#FFA500,#E5b8OB&color_background=transparen"/> -->
 
 
 ![snake animation](https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg)
