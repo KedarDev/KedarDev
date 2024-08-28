@@ -67,7 +67,9 @@
   
   
   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg" >
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.gif" >
+
+  
 
 
 
