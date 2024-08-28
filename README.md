@@ -62,15 +62,21 @@
   
  <br>
 
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?color_snake=black&color_dots=#3b3b3b,#FF0000,#ff6600,#FFA500,#E5b8OB&color_background=transparen"/> -->
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?"/> 
 
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
   
   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.gif" >
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg" >
+
+![snake animation](https://github.com/github/KedarDev/KedarDev/blob/output/github-contribution-grid-snake2.svg)
 
   
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake-dark.svg" />
+</picture>
 
 
 # 📊 GitHub Stats:
