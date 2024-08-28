@@ -90,6 +90,8 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/KedarDev/KedarDev/blob/output/github-contribution-grid-snake.gif)
+
 # 📊 GitHub Stats:
 
 <div align="center">
