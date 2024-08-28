@@ -62,22 +62,12 @@
   
  <br>
 
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?"/> 
 
-  ![snake gif](https://github.com/KedarDev/KedarDev/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg" >
-
-![snake animation](https://github.com/github/KedarDev/KedarDev/blob/output/github-contribution-grid-snake2.svg)
-
-  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 # 📊 GitHub Stats:
 
