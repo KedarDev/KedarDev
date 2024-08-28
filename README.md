@@ -16,7 +16,7 @@
 
 <h3>
  
- 📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Resume?page-id=0%3A1&node-id=33-72&viewport=597%2C660%2C0.26&t=AwUUdRWmqOjAG9VE-1&scaling=min-zoom&content-scaling=fixed)
+ 📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Resume-prototype?page-id=0%3A1&node-id=33-72&viewport=294%2C2084%2C1.09&t=t7WWXNPJZGp8F3N8-1&scaling=min-zoom&content-scaling=fixed)
 
 </h3>
 
