@@ -64,7 +64,7 @@
 
    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake.gif?"/> 
 
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/KedarDev/KedarDev/blob/output/github-contribution-grid-snake-dark.svg)
   
   
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/KedarDev/KedarDev/output/github-contribution-grid-snake-dark.svg" >
