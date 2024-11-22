@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<h2> 🧑🏿‍💻 Full Stack Developer taking applications from design to implementation. </h2>
+<h2> 🧑🏿‍💻 Full Stack Developer taking applications from design to deployment. </h2>
 
  <h3>
   
