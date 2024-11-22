@@ -14,20 +14,6 @@
 
 </h3>
 
-<h3>
- 
- 📄 Link to [Resume](https://www.figma.com/proto/RMma2ZygnVmUxTmiGIHbKt/Resume-prototype?page-id=0%3A1&node-id=33-72&viewport=294%2C2084%2C1.09&t=t7WWXNPJZGp8F3N8-1&scaling=min-zoom&content-scaling=fixed)
-
-</h3>
-
- <h3>
- 📩 How to reach me <a href="mailto:inquiries@kedarthedeveloper.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-
-</h3>
-
-
 
 <h3>
  ⚡ Visit my Website <a href="http://www.kedarthedeveloper.com" target="_blank">
