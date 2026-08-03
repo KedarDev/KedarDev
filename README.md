@@ -10,7 +10,7 @@
 
  <h3>
   
- 📙 Studied Full Stack Wed Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB 
+ 📙 Studied Full Stack Web Development @ [Roberson Collage](https://www.robertsoncollege.com/), Edmonton AB 
 
 </h3>
 
